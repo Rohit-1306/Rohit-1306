@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Rohit-1306&show_icons=true&count_private=true&theme=radical">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-1306&theme=dark&hide_langs_below=1">
